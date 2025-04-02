@@ -12,7 +12,7 @@ project:
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
 
 
-#  The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
+# The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   ui[0]: "A"
   ui[1]: "B"
