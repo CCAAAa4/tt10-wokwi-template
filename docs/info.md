@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Simple AND Gate
 
 ## How to test
 
-Explain how to use your project
+Toggle A and B, and LED is on if and only if A and B are on.
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A single LED connected to out[0]
