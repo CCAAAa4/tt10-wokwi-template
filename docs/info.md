@@ -8,12 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Simple AND Gate
+(NOT A) AND (B OR C) GATE
 
 ## How to test
 
-Toggle A and B, and LED is on if and only if A and B are on.
+Toggle B or C or B and C, and LED is on. When A is on, the LED will be off.
 
 ## External hardware
 A single LED connected to out[0]
